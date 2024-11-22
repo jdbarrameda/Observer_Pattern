@@ -28,5 +28,8 @@ You're tasked with designing a real-time news subscription service for a media c
   - The system should be scalable to handle a growing number of subscribers without compromising performance.
   - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
+    ![Blank diagram (3)](https://github.com/user-attachments/assets/5a79dfec-e54b-4201-a285-f94ca553fd4b)
+
+
 
   
